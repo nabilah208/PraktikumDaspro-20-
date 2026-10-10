@@ -7,7 +7,7 @@ Hasil Uji Studi Kasus 2 oleh Baiq Dhzikra Reina
 
 | No| Jenis   | Dokumen | Juara/Dana       | Output    | Sesuai? |
 |---|---------|---------|------------------|---------------------------------------------------------------------|---------|
-| 1 | BAKORMA | 3       | 1                |Dokumen tidak lengkap (kurang 1dokumen). Penghargaan tidak diberikan.|Ya       |
-| 2 | Mandiri | 4       | 0                |Bukan Juara 1, 2, atau 3. Penghargaan tidak diberikan.               |Ya       |
-| 3 | pkm     | 4       | 1                |Lolos pendanaan, dokumen lengkap. Penghargaan diberikan.             |Ya       |
-| 4 | Lainnya | 4       |(tidak ditanyakan)|Kegiatan lainnya tidak memperoleh penghargaan.                       |Ya       |
+| 1 | BAKORMA | 3       | 1                |Dokumen tidak lengkap (kurang 1 dokumen). Dana penghargaan tidak diberikan.|Ya       |
+| 2 | Mandiri | 4       | 0                |Bukan Juara 1, 2, atau 3. Dana Penghargaan tidak diberikan.               |Ya       |
+| 3 | pkm     | 4       | 1                |Dokumen lengkap. Dana penghargaan diberikan |Ya       |
+| 4 | Lainnya | 4       |(tidak ditanyakan)|Kegiatan lainnya tidak memperoleh dana penghargaan. |Ya     |
